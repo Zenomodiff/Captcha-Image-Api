@@ -26,7 +26,7 @@ def home():
 
 @app.route('/captcha', methods=['GET'])
 def mahadev_pic():
-	im_index = randint(0,50000)
+	im_index = randint(0,1000)
 	file = f'imgs/image{im_index}.png'
 	return send_file(file, mimetype='image/png')
 
