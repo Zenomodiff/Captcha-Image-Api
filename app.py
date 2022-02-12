@@ -12,7 +12,7 @@ def home():
   <head>
     <meta charset="UTF-8">
       <h1 class="project-name">Welcome to Captcha Image API 🔑</h1>
-      <h2 class="project-tagline">An API returns random Captcha Images</h2
+      <h2 class="project-tagline">An API which returns random Captcha Images</h2
 <h2 id="usage">Usage:</h2>
 <ul>
 <p>The Endpoint Of The API</p>
